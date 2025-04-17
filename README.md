@@ -49,5 +49,5 @@ EcomAnalytics provides businesses with an easy-to-implement solution for analyzi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/EcomAnalytics.git
+   git clone https://github.com/AnkurMangroliya/EcomAnalytics
    cd EcomAnalytics
